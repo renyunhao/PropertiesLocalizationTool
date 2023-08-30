@@ -1,0 +1,2 @@
+# PropertiesLocalizationTool
+properties本地化辅助工具
